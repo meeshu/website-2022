@@ -1,8 +1,8 @@
----
+
 layout: resume
-menuorder: 3
-menutitle: Resume
----
+menuorder: =2
+menutitle: CV
+
 ## Currently
 
 Current Position Description
